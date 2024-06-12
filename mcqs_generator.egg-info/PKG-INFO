@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mcqs_generator
+Version: 0.0.1
+Author: hasan
+Author-email: hasan@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: langchain
+Requires-Dist: HuggingFace
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: pyPDF2

@@ -5,6 +5,3 @@ HuggingFace
 streamlit
 python-dotenv
 pyPDF2
-pip
-ipykernel
--e . # it findout all the pakages local 

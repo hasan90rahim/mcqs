@@ -1,0 +1,9 @@
+README.md
+setup.py
+mcqs_generator.egg-info/PKG-INFO
+mcqs_generator.egg-info/SOURCES.txt
+mcqs_generator.egg-info/dependency_links.txt
+mcqs_generator.egg-info/requires.txt
+mcqs_generator.egg-info/top_level.txt
+src/__init__.py
+src/mcqs generator/__init__.py
